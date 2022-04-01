@@ -1,0 +1,17 @@
+ 
+
+  .img  {
+    background-image: url(https://lookw.ru/1/141/1380316277-1-104.jpg);
+    background-position: center;
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .profilePfoto{
+    margin: 10px 0;
+  }
+
+  .profileBlock{
+    padding-left: 20px;
+  }

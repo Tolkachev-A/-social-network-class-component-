@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../java script/.idea/java script.iml" filepath="$PROJECT_DIR$/../../../java script/.idea/java script.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../social/.idea/my-app.iml" filepath="$PROJECT_DIR$/../../social/.idea/my-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/react-gh-pages.iml" filepath="$PROJECT_DIR$/.idea/react-gh-pages.iml" />
+    </modules>
+  </component>
+</project>

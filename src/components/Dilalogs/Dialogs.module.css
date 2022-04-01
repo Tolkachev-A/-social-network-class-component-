@@ -1,0 +1,11 @@
+.dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+
+}
+.dialog{
+
+}
+.masseges{
+    padding: 20px;
+}

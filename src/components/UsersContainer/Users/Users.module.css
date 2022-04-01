@@ -1,0 +1,62 @@
+.foto {
+  height: 0;
+  padding-top: 130%;
+  position: relative;
+  display: block;
+}
+
+.foto img{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   max-height: 100%;
+   max-width: 100%;
+   border-radius: 50%;
+}
+
+.buttonBlock button{
+  height: 20px;
+  width: 80px;
+  margin: 0 auto;
+  display: block;
+}
+.fotoBlock{
+  margin: 0 auto;
+  width: 100px;
+}
+.userInfo{
+  margin: 20px 20px 0 0;
+  border: solid white 2px;
+  height: 100px;
+  border-radius: 20px;
+    position: relative;
+}
+.name{
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+.status{
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+}
+.country{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+.city{
+    position: absolute;
+    right: 20px;
+    top: 30px;
+}
+.userBlock{
+    max-width: 1000px;
+  margin: 20px;
+  display: grid;
+  grid-template-columns: 2fr 6fr;
+  grid-template-rows: 1fr ;
+}
+

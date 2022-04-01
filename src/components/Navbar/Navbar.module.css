@@ -1,0 +1,23 @@
+.nav{
+    grid-area: n;
+    background-color: rgb(194, 118, 26);
+    padding: 0 10px 0 10px;
+  }
+.nav h3{
+    color: white;
+    text-align: center;
+    margin: 10px 0 10px 0;
+}
+.link a{
+     color: #2e5ec0;
+    text-decoration: none;
+
+ }
+a.active{
+    color: #b42727;
+
+}
+.frends{
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr;
+}
